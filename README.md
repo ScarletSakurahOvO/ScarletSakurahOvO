@@ -1,7 +1,7 @@
 <!-- 顶部全宽横幅大图，带有圆角效果 -->
 <img src="61.jpg" width="100%" style="border-radius: 20px;" alt="ScarletSakurahOvO">
 
-## 👋 Hey there! I'm ScarletSakurahOvO
+## 👋 Hey there! I'm SakurahOvO
 
 ### 👤 About Me
 
