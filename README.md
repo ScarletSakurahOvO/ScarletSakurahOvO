@@ -4,8 +4,6 @@
 ## 👋 Hey there! I'm SakurahOvO
 
 ### 👤 About Me
-
-* 🙋‍♂️ Hi, I'm @ScarletSakurahOvO，你也可以叫我 Sakura~
 * 💻 日常开发语言：熟练使用 Vue 与 Nuxt 3 构建现代化 Web 应用
 * 🌱 视觉探索：正在深入 GSAP 和 Three.js，为页面注入流畅的 3D 交互与动效
 * 🎨 即将从事：AI全栈开发工程师
